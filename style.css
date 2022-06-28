@@ -1,0 +1,54 @@
+
+/* Universal Selector  */
+/* * {
+    font-size: 32px;
+} */
+
+/* Element Name Selector  */
+/* div {
+    background-color: blue
+} */
+
+/* Class Selector  */
+/* .hello {
+    color: yellow;
+} */
+
+/* ID Selector  */
+/* #tag {
+    color: white;
+} */
+
+/* Grouping Selector  */
+/* .bye, .hello {
+    font-size: 24px;
+} */
+
+.box {
+    width: 100px;
+    min-height: 50px;
+    max-height: 100px;
+    background-color: red;
+}
+.childbox {
+    width: 50px;
+    height: 30px;
+    background-color: blue;
+}
+
+/* .circle {
+   display: block;
+   display: inline-block;
+   display: inline;
+
+   display: flex;
+   display: grid;
+   display: inherit;
+   display: none;
+} */
+
+ 
+div {
+    display: inline-block;
+    width: 300px;
+}
